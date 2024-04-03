@@ -1,4 +1,9 @@
 Esta es mi presentacion. La presentacion tiene estos temas:
 * tema 1
 * tema 2
+<<<<<<< HEAD
 hice un cambio desde el repo 2
+=======
+* tema 4
+modifico del repo1
+>>>>>>> c025d830eea6b3e094e2d955544b454bf60357a0
